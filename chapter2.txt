@@ -1,1 +1,2 @@
-hi, this is the 2nd chapter of git
+hi, this is the 2nd chapter of git...
+but this also need to be changed for learning branching concept of git
